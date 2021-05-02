@@ -25,7 +25,7 @@ body {
   box-shadow: hsla(0, 0%, 0%, .8) 10px 10px 80px;
   width: 480px;
   max-width: calc(100vw - 10px);
-  opacity: 0.9;
+  opacity: 1;
 }
 
 h1 {
